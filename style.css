@@ -3,5 +3,6 @@
 :root{
     --bg-color:#16423C;
     --primary-color: #C4DAD2;
-    
+    --secondary-color: #6A9C89;
+    --font: "Nunito Sans", sans-serif;
 }
